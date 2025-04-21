@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/jcrouch2/webpack_test/issues"
   },
-  "homepage": "https://github.com/jcrouch2/webpack_test#readme",
+  "homepage": "https://github.com/jcrouch2/webpack_test",
   "description": "",
   "devDependencies": {
     "css-loader": "^7.1.2",
